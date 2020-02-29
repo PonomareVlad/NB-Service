@@ -1,0 +1,78 @@
+
+
+<html>
+<head><link rel="stylesheet" type="text/css" href="http://nb-service.ru/all.css">
+<title>архив новостей индустрии ноутбуков/ноутбук-сервис</title></head>
+<body bgcolor="#ffffff" link="#000000" alink="#000000" vlink="#666666" text="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% valign=bottom><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/logoLeft.gif" border=0 alt="Ноутбук-Сервис. Продажа,ремонт, модернизация ноутбуков и аксессуаров к ним."></a><br></td>
+<td width=1% align=left valign=bottom><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/logoRight.gif" border=0 alt="Ноутбук-Сервис. Продажа, ремонт, модернизация ноутбуков и аксессуаров к ним."
+></a><br></td
+><td width=97% align=left><img src=http://nb-service.ru/images/empty.gif border=0 alt=""><br></td
+><td width=1% valign=bottom><font>продажа, ремонт,&nbsp;модернизация,&nbsp;ноутбуков и аксессуаров к ним.</font></td
+></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% background=http://nb-service.ru/images/menuGrid.gif><a href="http://nb-service.ru"><img src=http://nb-service.ru/images/logoDown.gif border=0 alt="Ноутбук-Сервис. Ремонт, модернизация, продаж ноутбуков и аксессуаров к ним."
+></a><br></td
+><td>
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+	<tr bgcolor=#ffffff>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/sales/page.asp" class=menu>продажа</a></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/service/" class=menu>сервис</a></div></td>
+		<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/catalog/page.asp" class=menu>каталог</a></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/about/page.asp" class=menu>о&nbsp;компании</a></div></td>
+	<td width=94% background=http://nb-service.ru/images/menuGrid.gif><img src=http://nb-service.ru/images/empty.gif alt="" border=0><br></td></tr>
+	</table>
+</td></tr></table>
+
+<br>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=1px><br></td
+><td valign=top>
+	<h3>Архив новостей индустрии ноутбуков.</h3>
+	<table cellspacing=0 cellpadding=0 border=0 bgcolor="#000000"><tr><td>
+		<table cellspacing=1 cellpadding=3 border=0 bgcolor=""><tr align=center>
+		
+			<td bgcolor="#6699cc"><b><font class=txt style='color:#000000;'>2003</font></b></td>
+			
+			<td bgcolor="#6699cc"><a class=txt style='color:#336699;' title='новости за 2003 год' href='archive.asp?god=2004'>2004</a></td>
+			
+			<td bgcolor="#6699cc"><a class=txt style='color:#336699;' title='новости за 2003 год' href='archive.asp?god=2006'>2006</a></td>
+			
+		</tr></table>
+	</td></tr></table>
+	<table cellspacing=0 cellpadding=0 border=0><tr><td><img src="http://nb-service.ru/images/empty.gif" alt="" border=0 height=3px width=1px/></td></tr></table>
+	<!--Выводим двенадцать месяцев-->
+	<table cellspacing=0 cellpadding=0 border=0 bgcolor="#000000"><tr><td>
+		<table cellspacing=1 cellpadding=3 border=0 bgcolor=""><tr align=center><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>январь</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>февраль</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>март</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>апрель</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>май</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>июнь</font></td></tr
+		><tr align=center><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>июль</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>август</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>сентябрь</font></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за октябрь 2003 года' href='archive.asp?god=2003&mesac=9'>октябрь</a></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за ноябрь 2003 года' href='archive.asp?god=2003&mesac=10'>ноябрь</a></td><td bgcolor="#ffcc33"><b><font class=txt style='color:#000000;'>декабрь</font></b></
+		td></tr
+		><tr align=center><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 1 декабря 2003 года' href='http://nb-service.ru/news/archive.asp?ids=28&god=2003&mesac=11&den=1'>1</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>2</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>3</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>4</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>5</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>6</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>7</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 8 декабря 2003 года' href='http://nb-service.ru/news/archive.asp?ids=29&god=2003&mesac=11&den=8'>8</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>9</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>10</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>11</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>12</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>13</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>14</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>15</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 16 декабря 2003 года' href='http://nb-service.ru/news/archive.asp?ids=30&god=2003&mesac=11&den=16'>16</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>17</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>18</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>19</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>20</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>21</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>22</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>23</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>24</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>25</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>26</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>27</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>28</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>29</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>30</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>31</font></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td></tr
+		></table>
+	</td></tr></table>
+
+
+
+<h3>Выберите интересующий вас день.</h3>
+
+
+</td></tr></table>
+</body>
+</html>

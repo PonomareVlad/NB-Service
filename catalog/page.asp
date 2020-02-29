@@ -1,0 +1,130 @@
+
+<html>
+<head>
+<meta name="keywords" content="ноутбуки, екатеринбург, maxselect, roverbook, оптовая продажа ноутбуков, продажа ноутбуков, покупка ноутбуков, аксессуары,">
+<meta name="description" content="Компания NB-Service. Продажа, ремонт и модернизация ноутбуков и аксессуаров к ним в Екатеринбурге. У нас самый богатый опыт в обслуживании и продаже ноутбуков. Мы являемся официальными дистрибьютерами торговой марки MaxSelect и дилерами торговой марки RoverBook. Мы авторизованный сервисный центр MaxSelect, осуществляем гарантийны ремонт ноутбуков. Наш подход в том, чтобы помочь клиенту в выборе оптимальной для его нужд модели.">
+<link rel="stylesheet" type="text/css" href="http://nb-service.ru/all.css">
+<title>каталог товаров/ноутбук-сервис</title></head>
+<body bgcolor="#ffffff" link="#000000" alink="#000000" vlink="#666666" text="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% align=left valign=bottom style="padding:5px;"><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/top/newLogo.gif" border=0 alt="Ноутбук-Сервис. Любой ремонт ноутбуков любых марок. Любые запчасти к ноутбукам."
+></a><br></td
+><td width=98% valign=top style="padding-left:100px;"
+><a class=small href="/catalog/parts/oneListInfo/keyboards/page.asp"
+>все клавиатуры для ноутбуков (одним списком)</a></br
+><a class=small href="/catalog/parts/oneListInfo/batteries/page.asp"
+>все аккумуляторные батареи (аккумуляторы) для ноутбуков (одним списком)</a></td
+></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr bgcolor=#6699cc
+><td width=1% class=bordTbl><a href="/service/page.asp" class=txtB>ремонт ноутбуков</a></td
+><td width=1% class=bordTbl><a href="/sales/parts/" class=txtB>запчасти для ноутбуков</a></td
+><td width=1% class=bordTbl><a href="/sales/page.asp" class=txtB>ноутбуки</a></td
+><td width=1% class=bordTbl><a href="/catalog/page.asp" class=txtB>каталог</a></td
+><td width=1% class=bordTbl><a href="/about/page.asp" class=txtB>о компании</a></td
+></tr></table>
+<table width=100% cellspacing=0 cellpadding=0 border=0 ID="Table1"><tr><td><img src=/images/empty.gif alt="" border=0 height=10px
+></td></tr></table>
+
+<table width=700px cellspacing=0 cellpadding=0 border=0 ID="Table1">
+<tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=1px><br></td>
+<td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px><br></td></tr>
+<tr><td width=1% valign=top>
+
+<div style="padding-top:10px;">
+	
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=Acer">Acer</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=Asus">Asus</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=Dell">Dell</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=Fujitsu_Siemens">Fujitsu_Siemens</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=HP_Compaq">HP_Compaq</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=iRu">iRu</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=MaxSelect">MaxSelect</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=RoverBook">RoverBook</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=Samsung">Samsung</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=Sony">Sony</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/catalog/notebook/page.asp?nb=Toshiba">Toshiba</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	
+	</table>
+	</div>
+	
+
+</td>
+<td valign=top>
+<div style="padding-left:10px;">
+<h3>Что есть?</h3>
+<font class=txt>
+На нашем сайте представлен каталог ноутбуков и запчастей к ним. В каталоге даны технические спецификации товаров и их фотографии.
+Информация в каталог как правило берется от производителя. Если вы вдруг обнаружили в каталоге неточность или неработающую ссылку, вы можете сообщить нам об этом.
+</font>
+<br><br>
+<a href="http://nb-service.ru/catalog/parts/" clas=txt>Каталог комплектующих для ноутбуков</a></div>
+</td></tr></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=30px;><br></td
+><td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px;><br></td></tr
+><tr><td bgcolor=#336699 colspan=2 height=1px
+><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px;><br/></td></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td><font class=small>Компания Ноутбук-Сервис<br>адрес: г.Екатеринбург, Мамина-Сибиряка 36<br
+>телефоны: (343) 355-31-57, 268-17-67, 268-27-73<br>почта: mail [собак] nb-service.ru, dealer [собак] nb-service.ru<br>ICQ: 23918002, 249674155 (стучитесь в оффлайн, иногда из-за спам фильтра сообщения не доходят)</font></td
+><td align=right
+></td></tr></table>
+
+<!-- начало HTML-кода рейтинга УралWeb -->
+<a href="http://www.uralweb.ru/hits/nb/go"
+target="_top"><img border=0 width=1 height=1
+src="http://www.uralweb.ru/hits/nb"
+alt="Рейтинг ресурсов УралWeb"></a>
+<!-- конец HTML-кода рейтинга УралWeb -->
+
+
+<!-- SpyLOG f:0211 -->
+<script language="javascript"><!--
+Mu="u5237.11.spylog.com";Md=document;Mnv=navigator;Mp=1;
+Mn=(Mnv.appName.substring(0,2)=="Mi")?0:1;Mrn=Math.random();
+Mt=(new Date()).getTimezoneOffset();
+Mz="p="+Mp+"&rn="+Mrn+"&t="+Mt;
+My="";
+My+="<a href='http://"+Mu+"/cnt?cid=523711&f=3&p="+Mp+"&rn="+Mrn+"' target='_blank'>";
+My+="<img src='http://"+Mu+"/cnt?cid=523711&"+Mz+"&r="+escape(Md.referrer)+"&pg="+escape(window.location.href)+"' border=0 width=1 height=1 alt='SpyLOG'>";
+My+="</a>";Md.write(My);//--></script><noscript>
+<a href="http://u5237.11.spylog.com/cnt?cid=523711&f=3&p=1" target="_blank">
+<img src="http://u5237.11.spylog.com/cnt?cid=523711&p=1" alt='SpyLOG' border='0' width=1 height=1 >
+</a></noscript>
+<!-- SpyLOG -->
+
+</body>
+</html>

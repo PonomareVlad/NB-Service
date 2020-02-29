@@ -1,0 +1,159 @@
+
+<html>
+<head>
+<script language=javascript>
+function go(put)
+{
+window.open(put,"","directories=no,location=no,menubar=no,resizable=yes,scrollbars=no,status=no,toolbar=no,width=500px")
+
+}
+</script>
+<meta name="keywords" content="каталог ноутбуков, описание TravelBook X7Lite/X7/X7+, спецификация TravelBook X7Lite/X7/X7+, каталог maxselect, описания ноутбуков, характеристики, ноутбуки, информация о ноутбуках">
+<meta name="description" content="Компания NB-Service. Каталог ноутбуков MaxSelect. Информация о модели ноутбука TravelBook X7Lite/X7/X7+.">
+<link rel="stylesheet" type="text/css" href="http://nb-service.ru/all.css">
+<title>&nbsp;TravelBook X7Lite/X7/X7+/MaxSelect/ноутбуки/каталог/ноутбук-сервис</title></head>
+<body bgcolor="#ffffff" link="#000000" alink="#000000" vlink="#666666" text="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+
+<table width=100% cellspacing=0 cellpadding=0 border=0\
+><tr
+><td width=1% valign=bottom><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/logoLeft.gif" border=0 alt="Ноутбук-Сервис. Продажа,ремонт, модернизация ноутбуков и аксессуаров к ним."></a><br></td>
+<td width=1% align=left valign=bottom><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/logoRight.gif" border=0 alt="Ноутбук-Сервис. Продажа, ремонт, модернизация ноутбуков и аксессуаров к ним."
+></a><br></td
+><td width=97% align=left><img src=http://nb-service.ru/images/empty.gif border=0 alt=""><br></td
+><td width=1% valign=bottom><font>продажа, ремонт,&nbsp;модернизация,&nbsp;ноутбуков и аксессуаров к ним.</font></td
+></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% background=http://nb-service.ru/images/menuGrid.gif><a href="http://nb-service.ru"><img src=http://nb-service.ru/images/logoDown.gif border=0 alt="Ноутбук-Сервис. Ремонт, модернизация, продаж ноутбуков и аксессуаров к ним."
+></a><br></td
+><td>
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+	<tr bgcolor=#ffffff>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/service/" class=menu>сервис</a></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/sales/page.asp" class=menu>продажа</a></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/about/page.asp" class=menu>о&nbsp;компании</a></div></td>
+	<td width=94% background=http://nb-service.ru/images/menuGrid.gif><img src=http://nb-service.ru/images/empty.gif alt="" border=0><br></td></tr>
+	</table>
+</td></tr></table>
+
+<form name=forma action=http://nb-service.ru/catalog/notebook/info.asp method=get>
+<table width=100% cellspacing=0 cellpadding=0 border=0 height=35px
+><tr><td width=1%><img src=http://nb-service.ru/images/empty.gif border=0 width=110px height=1px><br></td>
+<td colspan=4 valign=bottom><font class=smallMenu>каталог ноутбуков/MaxSelect&nbsp;&nbsp;</font>
+
+
+<select name=id id=id size=1 type=select-one class=smallMenu onchange="forma.submit()">
+<option value=1 selected>выбрать модель
+
+<option value="D470K">&nbsp;HammerWide
+<option value="MH47">&nbsp;Mission A7 Wide
+<option value="W730A">&nbsp;Mission A8 Wide
+<option value="OptimaA140">&nbsp;Optima A140
+<option value="MiA88">&nbsp;Optima E420
+<option value="A1848GL1">&nbsp;Optima E500
+<option value="A1556">&nbsp;TravelBook M620
+<option value="CP11">&nbsp;TravelBook TZ
+</select>
+<input name=nb id=nb type=hidden value="MaxSelect notebook">
+
+</td></tr></table></form>
+
+
+
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=1px><br></td>
+<td align=center>
+	
+	<br>
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+	<tr><td valign=top width=500px colspan=2>
+	<div style="padding-top:10px;">
+	<font><b>ноутбук MaxSelect&nbsp;TravelBook X7Lite/X7/X7+.</b></font>
+	</td></tr></table>
+	<br>
+	
+	<table width=400px cellspacing=0 cellpadding=0 border=0>
+	<tr
+	><td width=1% bgcolor=#ffcc33 nowrap><a href="http://nb-service.ru/catalog/notebook/info.asp?nb=MaxSelect notebook&id=G556" class=smallMenu>&nbsp;описание</a
+	><img src="http://nb-service.ru/images/ugolok.gif" alt="" border=0></td>
+	
+	<td width=1% bgcolor=#ffcc33 nowrap><a href="http://nb-service.ru/catalog/notebook/specs.asp?nb=MaxSelect notebook&id=G556" class=smallMenu>&nbsp;спецификация</a
+	><img src="http://nb-service.ru/images/ugolok.gif" alt="" border=0></td>
+	
+	<td width=1% bgcolor=#ffffff nowrap><font class=smallMenu>&nbsp;фото</font
+	><img src="http://nb-service.ru/images/empty.gif" width=10px height=10px alt="" border=0></td>
+	
+	<td width=1% bgcolor=#ffcc33 nowrap><a href="http://nb-service.ru/sales/notebook/maxselect.asp#G556" class=smallMenu>&nbsp;цены</a
+	><img src="http://nb-service.ru/images/ugolok.gif" alt="" border=0></td>
+	
+	<td width=96%><img src="" alt="http://nb-service.ru/images/empty.gif" width=1px height=1px border=0></td
+	><td width=1px bgcolor=#000000><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px></td
+	></tr>
+	<tr
+	><td colspan=6 bgcolor="#000000"><img src="" alt="http://nb-service.ru/images/empty.gif" width=1px height=1px border=0></td
+	></tr></table>
+
+
+
+	
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+	<tr><td align=center>
+		
+				
+				<a href="javascript:go('http://nb-service.ru/catalog/images/notebook/maxselect/G556/big/1.jpg')"><img style="margin:15px;" src="http://nb-service.ru/catalog/images/notebook/maxselect/G556/small/1.jpg" border=1 alt="нажмите, чтобы увеличить"></a>
+
+				
+				
+				<a href="javascript:go('http://nb-service.ru/catalog/images/notebook/maxselect/G556/big/2.jpg')"><img style="margin:15px;" src="http://nb-service.ru/catalog/images/notebook/maxselect/G556/small/2.jpg" border=1 alt="нажмите, чтобы увеличить"></a>
+
+				
+				
+				<a href="javascript:go('http://nb-service.ru/catalog/images/notebook/maxselect/G556/big/3.jpg')"><img style="margin:15px;" src="http://nb-service.ru/catalog/images/notebook/maxselect/G556/small/3.jpg" border=1 alt="нажмите, чтобы увеличить"></a>
+
+				
+				
+				<a href="javascript:go('http://nb-service.ru/catalog/images/notebook/maxselect/G556/big/4.jpg')"><img style="margin:15px;" src="http://nb-service.ru/catalog/images/notebook/maxselect/G556/small/4.jpg" border=1 alt="нажмите, чтобы увеличить"></a>
+
+				
+				
+				<a href="javascript:go('http://nb-service.ru/catalog/images/notebook/maxselect/G556/big/5.jpg')"><img style="margin:15px;" src="http://nb-service.ru/catalog/images/notebook/maxselect/G556/small/5.jpg" border=1 alt="нажмите, чтобы увеличить"></a>
+
+				
+	</td>
+	<td bgcolor=#000000><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px></td></tr></table>
+	
+</td>
+
+<td width=99% valign=top>
+
+
+</td>
+</tr></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=30px;><br></td
+><td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px;><br></td></tr
+><tr><td bgcolor=#336699 colspan=2 height=1px
+><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px;><br/></td></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td><font class=small>Компания NB-Service, г.Екатеринбург,<br>Первомайская 70,
+тел. (343) 374-56-41, 268-27-73<br><a href="mailto:nb-service@usp.ru">nb-service@usp.ru</a></font></td
+><td align=right
+><img style="margin:5px;" src="http://nb-service.ru/images/mslogo.gif" alt="Мы продвигаем торговую марку MaxSelect" border=0
+><br></td></tr></table>
+
+</body>
+</html>
+
+
+

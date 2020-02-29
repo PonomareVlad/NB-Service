@@ -1,0 +1,21 @@
+font			{font-family:verdana;color:#000000;}
+a				{font-family:verdana;color:#000000;}
+a:hover			{color:#336699;}
+
+.menu			{color:#6699ff;text-decoration:none;font-size:13px;font-weight:bold;padding-right:20px;}
+.smallMenu		{text-decoration:none;font-size:10px;font-weight:bold;}
+.small_block	{margin-bottom:1px;}
+.block			{margin-right:3px;}
+.blockTxt		{margin-right:15px;}
+.small			{font-size:10px;}
+.txt			{font-size:12px;}
+.txtB			{font-size:12px;font-weight:bold;}
+.atxt			{font-size:12px;text-decoration:none;}
+
+input			{font-family:verdana;font-size:10px;}
+button          {font-family:verdana;font-size:10px;font-weight:bold;}
+.butGo			{font-weight:bold;font-size:12px;}
+textarea		{font-family:verdana;font-size:10px;}
+
+h5				{margin:0px;padding:0px;}
+h3				{font-family:Verdana;color:#000000}

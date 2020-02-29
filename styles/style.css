@@ -1,0 +1,370 @@
+.as_fld /* поле human test */
+{
+}
+.as_img /* картинка human test */
+{
+}
+.bdy /* тело документа */
+{
+	font-family: Verdana, Tahoma, Sans-Serif;
+	margin: 0px;
+	padding: 0px;
+}
+.cat_item_hdr /* заголовок позиции */
+{
+}
+.cat_item_hdr:hover /* заголовок позиции каталога под указателем */
+{
+}
+.cmn_fld /* поля форм */
+{
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+}
+.cmn_label /* служебные заголовки (поля и пр.) */
+{
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+}
+.cont /* содержимое стандартных панелей */
+{
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+}
+.cont a /* ссылка в содержимом */
+{
+	font-family: Verdana;
+}
+.cont a:hover /* ссылка в содержимом под указателем */
+{
+}
+.cont font /* текст в содержимом */
+{
+}
+.cont h3 /* заголовок 3 в стандартных панелях */
+{
+}
+.cont img /* картинки в содержимом */
+{
+}
+.cont p /* текст в стандартных панелях */
+{
+}
+.cont table /* таблицы в стандартных панелях */
+{
+}
+.cont ul /* списки в стандартных панелях */
+{
+}
+.cont_center_inner td /* содержимое центральных панелей */
+{
+}
+.cont_hldr_left_top /* контейнер содержимого панели */
+{
+}
+.cont_left_top /* содержимое левой верхней панели на главной */
+{
+}
+.cont_left_top h3 /* заголовки 3 в содержимом */
+{
+}
+.cont_left_top p /* текст */
+{
+}
+.cont_left_top table /* таблица в содержимом левых панелей */
+{
+}
+.cont_left_top ul /* список в содержимом левых панелей */
+{
+}
+.cont_right_top /* содержимое правой верхней панели на главной */
+{
+}
+.cont_right_top h3 /* заголовки 3 в содержимом */
+{
+}
+.cont_right_top p /* текст */
+{
+}
+.cont_right_top ul /* список в содержимом правых панелей */
+{
+}
+.fb_holder /* поле формы обратной связи */
+{
+}
+.fb_holder div /* скрываемые панели в форме обратной связи */
+{
+}
+.ftr /* нижний колонтитул */
+{
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.8em;
+	line-height: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+.ftr p /* параграф в нижнем колонтитуле */
+{
+	margin: 2px;
+}
+.gmnu /* глобальное меню для страниц */
+{
+	background-color: #0f4a90;
+	border-bottom: 2px solid black;
+	border-top: 5px solid white;
+	text-align: center;
+	width: 100%;
+}
+.h_gmnu /* глобальное меню для главной страницы */
+{
+	background-color: #0f4a90;
+	border-bottom: 2px solid black;
+	border-top: 5px solid white;
+	text-align: left;
+	width: 100%;
+}
+.hmnu_hldr /* контейнер главноего меню */
+{
+	text-align: center;
+	width: 100%;
+}
+.hmnu_hldr td /* ячейка контейнера главного меню */
+{
+}
+.hmnu_hldr_home /* контейнер глобального меню для главной */
+{
+	text-align: center;
+	width: 100%;
+}
+.hmnu_phldr /* пункт глобального меню */
+{
+	color: white;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.hmnu_phldr:hover /* ссылка в главном меню под указателем */
+{
+}
+.hmnu_phldr_curr /* текущий пункт главного меню */
+{
+	color: #f8c301;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.hmnu_phldr_curr:hover /* текущий пункт главного меню под уккзателем */
+{
+}
+.hmnu_phldr_home /* ссылка в глобальном меню на главной */
+{
+	color: white;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.hmnu_phldr_home_curr /* ссылка на текущий раздел в глобальном меню на главной */
+{
+	color: #f8c301;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.mnu_dlm /* разделитель пунктов горизонтального меню */
+{
+	color: #f8c301;
+	font-family: Tahoma, Verdana, Sans-Serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+.mod_cat_hdr /* заголовок позиции в каталоге */
+{
+}
+.mod_cat_hdr_link /* ссылка в таблице каталога */
+{
+}
+.mod_cat_list_tb /* таблица каталога */
+{
+}
+.mod_cat_list_td /* ячейка таблицы в каталоге */
+{
+}
+.mod_cat_list_td .mod_cat_hdr_link /* ссылка в названии позиции каталога */
+{
+}
+.mod_cat_list_td .mod_cat_hdr_link_lt /* ссылка в названии позиции каталога в списке прочих */
+{
+}
+.mod_cat_list_td a /* ссылка в таблице каталога */
+{
+}
+.mod_cat_list_th /* заголовки в таблице в каталоге */
+{
+}
+.mod_hdr_hldr /* контейнер заголовка в модуле */
+{
+}
+.mod_hdr_hldr .mod_cat_hdr /* название позиции каталога в развернутом виде */
+{
+}
+.msg_label /* системные сообщения (ошибки и пр.) */
+{
+}
+.nbs_cat_det_fn_tc /* название поля в свойствах запчасти nbs */
+{
+	background-color: #aecae9;
+	border: 3px solid #aecae9;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.8em;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+	vertical-align: top;
+	width: 200px;
+}
+.nbs_cat_det_fv_tc /* значение характеристики в свойствах запчасти nbs */
+{
+	background-color: #f4f4ee;
+	border: 3px solid #f4f4ee;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	vertical-align: top;
+	width: 380px;
+}
+.nbs_cat_list_a_tc /* ячейка анкера в таблице списка запчастей */
+{
+	font-size: 10px;
+	width: 1px;
+}
+.nbs_cat_list_img_tc /* ячейка ссылки на картинку в таблице списка запчастей */
+{
+	font-size: 10px;
+}
+.nbs_cat_list_pnm_tc /* ячейка с наименованием в таблице списка запчастей */
+{
+	font-size: 10px;
+}
+.nbs_cat_list_sc_tc /* ячейка с кодом в таблице списка запчастей */
+{
+	font-size: 10px;
+}
+.nbs_cat_list_tc /* ячейка в таблице списка запчастей */
+{
+	font-size: 10px;
+	width: 20px;
+}
+.nbs_cat_list_tr /* строка таблицы списка запчастей - четная */
+{
+}
+.nbs_cat_list_tr_od /* строка таблицы списка запчастей - нечетная */
+{
+	background-color: yellow;
+}
+.nbs_cat_mnu_cur_li /* текущий пункт списка вертикального меню */
+{
+	color: black;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.nbs_cat_mnu_lnk /* ссылка в меню каталога nbs */
+{
+	color: #0f4a90;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-decoration: none;
+}
+.nbs_cat_mnu_lnk:hover /* ссылка в меню каталога nbs под указателем */
+{
+	color: #0f4a90;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.nbs_cat_mnu_ul /* список вертикального меню */
+{
+	background-repeat: no-repeat;
+	color: #0f4a90;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	font-weight: bold;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+.pane /* панель */
+{
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 0.9em;
+	padding: 20px;
+}
+.pane table /* таблицы в модулях */
+{
+}
+.pane_center_inner /* центральная панель с логотипом для страниц */
+{
+}
+.pane_center_main /* центральная панель на главной */
+{
+}
+.pane_home /* панели на главной */
+{
+	font-size: 1.1em;
+}
+.pane_left /* панели слева от логотипа */
+{
+}
+.pane_left_top /* левая верхняя панель на главной */
+{
+}
+.pane_left_top h2.ph /* заголовки левых панелей */
+{
+}
+.pane_left_top table /* контейнер содержимого панели */
+{
+}
+.ph /* заголовок панели */
+{
+	color: #0f4a90;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	font-size: 1.1em;
+}
+.ph_alt /* альтернативные заголовки панелей */
+{
+}
+.sldr /* контейнер слайдера */
+{
+}
+.slider /* ссылка в слайдере */
+{
+}
+.slider:hover /* ссылка в слайдере под указателем */
+{
+}
+.slider_cur /* текущая страница на слайдере */
+{
+}
+.smallerText /* параграфа с меньшим текстом, чем основной */
+{
+	font-size: 80%;
+}
+.tr.tr_ftr /* конейнер нижнего колонтитула */
+{
+}
+.vsmnu_hdr /* заголовок модуля "Меню Раздела" */
+{
+	display: none;
+}

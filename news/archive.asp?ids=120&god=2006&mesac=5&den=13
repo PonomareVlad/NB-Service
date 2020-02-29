@@ -1,0 +1,87 @@
+
+
+<html>
+<head><link rel="stylesheet" type="text/css" href="http://nb-service.ru/all.css">
+<title>архив новостей индустрии ноутбуков/ноутбук-сервис</title></head>
+<body bgcolor="#ffffff" link="#000000" alink="#000000" vlink="#666666" text="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% valign=bottom><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/logoLeft.gif" border=0 alt="Ноутбук-Сервис. Продажа,ремонт, модернизация ноутбуков и аксессуаров к ним."></a><br></td>
+<td width=1% align=left valign=bottom><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/logoRight.gif" border=0 alt="Ноутбук-Сервис. Продажа, ремонт, модернизация ноутбуков и аксессуаров к ним."
+></a><br></td
+><td width=97% align=left><img src=http://nb-service.ru/images/empty.gif border=0 alt=""><br></td
+><td width=1% valign=bottom><font>продажа, ремонт,&nbsp;модернизация,&nbsp;ноутбуков и аксессуаров к ним.</font></td
+></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% background=http://nb-service.ru/images/menuGrid.gif><a href="http://nb-service.ru"><img src=http://nb-service.ru/images/logoDown.gif border=0 alt="Ноутбук-Сервис. Ремонт, модернизация, продаж ноутбуков и аксессуаров к ним."
+></a><br></td
+><td>
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+	<tr bgcolor=#ffffff>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/sales/page.asp" class=menu>продажа</a></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/service/" class=menu>сервис</a></div></td>
+		<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/catalog/page.asp" class=menu>каталог</a></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/about/page.asp" class=menu>о&nbsp;компании</a></div></td>
+	<td width=94% background=http://nb-service.ru/images/menuGrid.gif><img src=http://nb-service.ru/images/empty.gif alt="" border=0><br></td></tr>
+	</table>
+</td></tr></table>
+
+<br>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=1px><br></td
+><td valign=top>
+	<h3>Архив новостей индустрии ноутбуков.</h3>
+	<table cellspacing=0 cellpadding=0 border=0 bgcolor="#000000"><tr><td>
+		<table cellspacing=1 cellpadding=3 border=0 bgcolor=""><tr align=center>
+		
+			<td bgcolor="#6699cc"><a class=txt style='color:#336699;' title='новости за 2006 год' href='archive.asp?god=2003'>2003</a></td>
+			
+			<td bgcolor="#6699cc"><a class=txt style='color:#336699;' title='новости за 2006 год' href='archive.asp?god=2004'>2004</a></td>
+			
+			<td bgcolor="#6699cc"><b><font class=txt style='color:#000000;'>2006</font></b></td>
+			
+		</tr></table>
+	</td></tr></table>
+	<table cellspacing=0 cellpadding=0 border=0><tr><td><img src="http://nb-service.ru/images/empty.gif" alt="" border=0 height=3px width=1px/></td></tr></table>
+	<!--Выводим двенадцать месяцев-->
+	<table cellspacing=0 cellpadding=0 border=0 bgcolor="#000000"><tr><td>
+		<table cellspacing=1 cellpadding=3 border=0 bgcolor=""><tr align=center><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>январь</font></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за февраль 2006 года' href='archive.asp?god=2006&mesac=1'>февраль</a></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за март 2006 года' href='archive.asp?god=2006&mesac=2'>март</a></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за апрель 2006 года' href='archive.asp?god=2006&mesac=3'>апрель</a></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за май 2006 года' href='archive.asp?god=2006&mesac=4'>май</a></td><td bgcolor="#ffcc33"><b><font class=txt style='color:#000000;'>июнь</font></b></td></tr
+		><tr align=center><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за июль 2006 года' href='archive.asp?god=2006&mesac=6'>июль</a></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>август</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>сентябрь</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>октябрь</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>ноябрь</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>декабрь</font></
+		td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>1</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>2</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 3 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=115|116&god=2006&mesac=5&den=3'>3</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>4</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>5</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 6 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=117|118&god=2006&mesac=5&den=6'>6</a></td></tr
+		><tr align=center><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 7 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=119&god=2006&mesac=5&den=7'>7</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>8</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>9</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>10</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>11</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>12</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><b><font class=txt>13</font></b></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>14</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>15</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>16</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 17 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=121&god=2006&mesac=5&den=17'>17</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>18</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>19</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 20 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=122&god=2006&mesac=5&den=20'>20</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 21 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=123&god=2006&mesac=5&den=21'>21</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 22 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=124|125&god=2006&mesac=5&den=22'>22</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 23 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=126|127&god=2006&mesac=5&den=23'>23</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 24 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=128&god=2006&mesac=5&den=24'>24</a></td></tr
+		><tr align=center><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 25 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=129&god=2006&mesac=5&den=25'>25</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>26</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 27 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=130&god=2006&mesac=5&den=27'>27</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 28 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=131|132&god=2006&mesac=5&den=28'>28</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 29 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=133|134&god=2006&mesac=5&den=29'>29</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 30 июня 2006 года' href='http://nb-service.ru/news/archive.asp?ids=135&god=2006&mesac=5&den=30'>30</a></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>31</font></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td></tr
+		></table>
+	</td></tr></table>
+
+
+
+
+<h3>новости за 13&nbsp;июня&nbsp;2006 года.</h3>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td valign=top><img src=http://nb-service.ru/images/block.gif alt="" border=0
+>&nbsp;<font class=txtB><small>13.06.06 19:19:44</small><br>Винчестер для ноутбука на 200 Гб.<br></font
+><font class=txt>Компания <a href='http://www.toshiba.co.jp'>Toshiba</a> анонсировала новый 2.5 дюймовый винчестер емкостью 200 Гб, модель MK2035GSS. Интерфейс винчестера SATA, скорость вращения шпинделя 4200 оборотов в минуту, емкость буфера равна 8 Мб. Накопитель выдерживает нагрузки до 325g в течение 2 мс в рабочем режиме и до 850g в течение 1 мс в отключенном состоянии. При размерах 69,9 х 100,0 х 9,5 мм весит устройство около 98 г.<br /><br /><img src='http://nb-service.ru/news/images/120/1.jpg' border=1 alt = 'изображение винчестера Toshiba MK2035GSS' /><br /><br />Винчестер использует технологию перпендикулярной записи, при которой намагничивание носителя осуществляется по нормали к его поверхности, а не параллельно, как в случае с традиционной продольной записью. Методика перпендикулярной записи позволяет разместить значительно больше информации на единицу площади жесткого диска. В частности, модель MK2035GSS обладает плотностью записи в 277,1 мегабит на квадратный миллиметр. Это, по заявлениям Toshiba, самый высокий показатель для подобного класса устройств на сегодняшний день.<br /><br />Новый жесткий диск содержит только две пластины и при этом имеет емкость в 200 Гб. Массовое производство накопителей должно начаться в августе текущего года, о стоимости винчестеров пока ничего не сообщается.<br><small><b>источник:</b>&nbsp;<a href="http://www.toshiba.co.jp">Toshiba</a></small
+></font></td></tr><tr><td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 height=3px width=1px alt="" /></td></tr
+><tr><td bgcolor='#000000'><img src=http://nb-service.ru/images/empty.gif alt="" border=0 height=1px width=1px alt="" /></td></tr
+><tr><td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 height=10px width=1px alt="" /></td></tr></table>
+
+
+</td></tr></table>
+</body>
+</html>

@@ -1,0 +1,106 @@
+
+
+<html>
+<head><link rel="stylesheet" type="text/css" href="http://nb-service.ru/all.css">
+<title>архив новостей индустрии ноутбуков/ноутбук-сервис</title></head>
+<body bgcolor="#ffffff" link="#000000" alink="#000000" vlink="#666666" text="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% valign=bottom><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/logoLeft.gif" border=0 alt="Ноутбук-Сервис. Продажа,ремонт, модернизация ноутбуков и аксессуаров к ним."></a><br></td>
+<td width=1% align=left valign=bottom><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/logoRight.gif" border=0 alt="Ноутбук-Сервис. Продажа, ремонт, модернизация ноутбуков и аксессуаров к ним."
+></a><br></td
+><td width=97% align=left><img src=http://nb-service.ru/images/empty.gif border=0 alt=""><br></td
+><td width=1% valign=bottom><font>продажа, ремонт,&nbsp;модернизация,&nbsp;ноутбуков и аксессуаров к ним.</font></td
+></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% background=http://nb-service.ru/images/menuGrid.gif><a href="http://nb-service.ru"><img src=http://nb-service.ru/images/logoDown.gif border=0 alt="Ноутбук-Сервис. Ремонт, модернизация, продаж ноутбуков и аксессуаров к ним."
+></a><br></td
+><td>
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+	<tr bgcolor=#ffffff>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/sales/page.asp" class=menu>продажа</a></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/service/" class=menu>сервис</a></div></td>
+		<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/catalog/page.asp" class=menu>каталог</a></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=block><img src=http://nb-service.ru/images/menuBlock.gif border=0 alt=""></div></td>
+	<td width=1% background=http://nb-service.ru/images/menuGrid.gif><div class=blockTxt><a href="http://nb-service.ru/about/page.asp" class=menu>о&nbsp;компании</a></div></td>
+	<td width=94% background=http://nb-service.ru/images/menuGrid.gif><img src=http://nb-service.ru/images/empty.gif alt="" border=0><br></td></tr>
+	</table>
+</td></tr></table>
+
+<br>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=1px><br></td
+><td valign=top>
+	<h3>Архив новостей индустрии ноутбуков.</h3>
+	<table cellspacing=0 cellpadding=0 border=0 bgcolor="#000000"><tr><td>
+		<table cellspacing=1 cellpadding=3 border=0 bgcolor=""><tr align=center>
+		
+			<td bgcolor="#6699cc"><a class=txt style='color:#336699;' title='новости за 2006 год' href='archive.asp?god=2003'>2003</a></td>
+			
+			<td bgcolor="#6699cc"><a class=txt style='color:#336699;' title='новости за 2006 год' href='archive.asp?god=2004'>2004</a></td>
+			
+			<td bgcolor="#6699cc"><b><font class=txt style='color:#000000;'>2006</font></b></td>
+			
+		</tr></table>
+	</td></tr></table>
+	<table cellspacing=0 cellpadding=0 border=0><tr><td><img src="http://nb-service.ru/images/empty.gif" alt="" border=0 height=3px width=1px/></td></tr></table>
+	<!--Выводим двенадцать месяцев-->
+	<table cellspacing=0 cellpadding=0 border=0 bgcolor="#000000"><tr><td>
+		<table cellspacing=1 cellpadding=3 border=0 bgcolor=""><tr align=center><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>январь</font></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за февраль 2006 года' href='archive.asp?god=2006&mesac=1'>февраль</a></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за март 2006 года' href='archive.asp?god=2006&mesac=2'>март</a></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за апрель 2006 года' href='archive.asp?god=2006&mesac=3'>апрель</a></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за май 2006 года' href='archive.asp?god=2006&mesac=4'>май</a></td><td bgcolor="#ffcc33"><a class=txt style='color:#cc9900' title='новости за июнь 2006 года' href='archive.asp?god=2006&mesac=5'>июнь</a></td></tr
+		><tr align=center><td bgcolor="#ffcc33"><b><font class=txt style='color:#000000;'>июль</font></b></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>август</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>сентябрь</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>октябрь</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>ноябрь</font></td><td bgcolor="#ffcc33"><font class=txt style='color:#cc9900;'>декабрь</font></
+		td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>1</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>2</font></td><td bgcolor=#ffffff><b><font class=txt>3</font></b></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 4 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=137|138&god=2006&mesac=6&den=4'>4</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 5 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=139&god=2006&mesac=6&den=5'>5</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 6 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=140&god=2006&mesac=6&den=6'>6</a></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>7</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>8</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>9</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>10</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 11 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=141|142&god=2006&mesac=6&den=11'>11</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 12 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=143|144&god=2006&mesac=6&den=12'>12</a></td></tr
+		><tr align=center><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 13 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=145&god=2006&mesac=6&den=13'>13</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 14 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=146&god=2006&mesac=6&den=14'>14</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>15</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>16</font></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 17 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=147|148&god=2006&mesac=6&den=17'>17</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>18</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>19</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>20</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>21</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>22</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>23</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>24</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 25 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=149&god=2006&mesac=6&den=25'>25</a></td><td bgcolor=#ffffff><a class=txt style='color:#999999;' title='новости за 26 июля 2006 года' href='http://nb-service.ru/news/archive.asp?ids=150&god=2006&mesac=6&den=26'>26</a></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>27</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>28</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>29</font></td><td bgcolor=#ffffff><font class=txt style='color:#999999;'>30</font></td></tr
+		><tr align=center><td bgcolor=#ffffff><font class=txt style='color:#999999;'>31</font></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td><td bgcolor=#ffffff></td></tr
+		></table>
+	</td></tr></table>
+
+
+
+
+<h3>новости за 3&nbsp;июля&nbsp;2006 года.</h3>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td valign=top><img src=http://nb-service.ru/images/block.gif alt="" border=0
+>&nbsp;<font class=txtB><small>03.07.06 14:37:27</small><br>Новая модель от Acer<br></font
+><font class=txt>Компания <a href='http://www.Acer.com'>Acer</a> накануне представила новый модельный ряд ультрапортативных
+деловых ноутбуков TravelMate 3020. Все входящие в него модели будут
+доступны только в белом цвете, символизирующем, по словам производителя, чистоту и легкость.<br /><br /><img src='http://nb-service.ru/news/images/136/1.jpg' border=1 alt = 'Изображение TravelMate 3020' /><br /><br /><br /> Чрезвычайно компактная новинка комплектуется широкоформатной 12-дюймовой
+WXGA LCD-матрицей, разрешающая способность которой составляет 1280х800
+пикселей.Yjen,er  также готов похвастаться широкими коммуникационными
+возможностями, реализованными посредством интегрированной беспроводной
+сетевой карты, поддерживающей соединения стандартов 802.11 a/b/g,
+Ethernet-адаптера, модуля Bluetooth 2.0, 1.3-мегапиксельной веб-камеры и
+телефонного аппарата, предназначенного для осуществления звонков посредством
+услуги VoIP (доступен опционально). В качестве графического ядра системой используется интегрированная
+видеосистема Intel GMA 950. <br />Более того, функциональные возможности мобильного компьютера дополнительно расширены при помощи программы Acer GridVista, идущей в комплекте и предназначенной для размещения нескольких
+системных окон на рабочем столе при работе в двух и более приложениях
+одновременно.<br /> Ноутбук поставляется с предустановленной операционной системой Windows XP
+Professional. Также были реализованы технологии:
+Acer GraviSense – фиксирует резкое перемещение ноутбука в пространстве и
+производит экстренную парковку дорожек жесткого диска, что позволяет
+сократить вероятность его повреждения в случае падения.
+Anti Theft – технология звукового оповещения пользователя о перемещении
+ноутбука в пространстве (аналог сигнализации).
+<br><small><b>источник:</b>&nbsp;<a href="http://www.Acer.com">Acer</a></small
+></font></td></tr><tr><td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 height=3px width=1px alt="" /></td></tr
+><tr><td bgcolor='#000000'><img src=http://nb-service.ru/images/empty.gif alt="" border=0 height=1px width=1px alt="" /></td></tr
+><tr><td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 height=10px width=1px alt="" /></td></tr></table>
+
+
+</td></tr></table>
+</body>
+</html>

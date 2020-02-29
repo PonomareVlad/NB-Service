@@ -1,0 +1,321 @@
+
+<html>
+<head><link rel="stylesheet" type="text/css" href="http://nb-service.ru/all.css">
+<title>прайс на жесткие диски/продажа/ноутбук-сервис</title></head>
+<body bgcolor="#ffffff" link="#000000" alink="#000000" vlink="#666666" text="#000000" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr
+><td width=1% align=left valign=bottom style="padding:5px;"><a href="http://nb-service.ru"
+><img src="http://nb-service.ru/images/top/newLogo.gif" border=0 alt="Ноутбук-Сервис. Любой ремонт ноутбуков любых марок. Любые запчасти к ноутбукам."
+></a><br></td
+><td width=98% valign=top style="padding-left:100px;"
+><a class=small href="/catalog/parts/oneListInfo/keyboards/page.asp"
+>все клавиатуры для ноутбуков (одним списком)</a></br
+><a class=small href="/catalog/parts/oneListInfo/batteries/page.asp"
+>все аккумуляторные батареи (аккумуляторы) для ноутбуков (одним списком)</a></td
+></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr bgcolor=#6699cc
+><td width=1% class=bordTbl><a href="/service/page.asp" class=txtB>ремонт ноутбуков</a></td
+><td width=1% class=bordTbl><a href="/sales/parts/" class=txtB>запчасти для ноутбуков</a></td
+><td width=1% class=bordTbl><a href="/sales/page.asp" class=txtB>ноутбуки</a></td
+><td width=1% class=bordTbl><a href="/catalog/page.asp" class=txtB>каталог</a></td
+><td width=1% class=bordTbl><a href="/about/page.asp" class=txtB>о компании</a></td
+></tr></table>
+<table width=100% cellspacing=0 cellpadding=0 border=0 ID="Table1"><tr><td><img src=/images/empty.gif alt="" border=0 height=10px
+></td></tr></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0 ID="Table2">
+<tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=1px><br></td>
+<td width=99%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px><br></td></tr>
+<tr><td valign=top>
+
+	<div style="padding-top:10px;">
+
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=batteries">Аккумуляторные батареи</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=Accessories">Аксессуары</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=adapters">Блоки питания</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=coolers">Вентиляторы</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=HDD">Жесткие диски</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=Inverters">Инверторы</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=keyboards">Клавиатуры</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=case_parts">Корпусные детали</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=Mainboards">Материнские платы</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=LCD">Матрицы (экраны)</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=modems">Модемы</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=RAM">Оперативная память</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=PEREHODNIK">Переходники</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=OSD">Приводы</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=CPU">Процессоры</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=NET_DEVICE">Сетевое оборудование</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	<tr><td align=left><a class=txtB href="http://nb-service.ru/sales/parts/partsListAsIs.asp?partName=Cables">Шлейфы</a></td></tr
+	><tr><td align=left><img src="/images/empty.gif" border=0 width=1px height=4px alt=""></td></tr>
+	
+	
+	</table>
+	</div>
+
+</td>
+<td valign=top style="padding-left:10px;">
+
+	<table width=100% cellspacing=0 cellpadding=0 border=0 ID="Table1">
+	<tr><td valign=top>
+	<div style="padding-top:10px;">
+	<font><b>прайс на жесткие диски от&nbsp;18.12.2007'.</b><br></font>
+	</td></tr><tr><td bgcolor=#6699ff><img src=http://nb-service.ru/images/empty.gif alt="" border=0 height=1px></td></tr
+	><tr><td valign=top><font class=small><img class=small_block src=http://nb-service.ru/images/small_block.gif alt="" border=0
+	>&nbsp;Указаны розничные цены в рублях. Возможна покупка за наличный и безналичный расчет.<br></font>
+	<font class=small><img class=small_block src=http://nb-service.ru/images/small_block.gif alt="" border=0
+	>&nbsp;Если Вы не нашли, то что искали, позвоните нам и мы постараемся найти это для Вас.<br></font></td></tr
+	><tr><td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 height=10px></td></tr
+	></table>
+		
+	<table width=700px cellpadding=0 cellspacing=0 class=bordTbl>
+	<tr bgcolor=#ffcc33><td class=bordTbl width=1%><font class=small><b>код</b></font></td
+	><td class=bordTbl width=40%><font class=small><b>наименование</b></font></td
+	><td class=bordTbl width=1%><font class=small><b>цена</b></font></td></tr>
+			
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0039</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0039&part=7" class=small
+			>Жесткий диск 30Гб MHR2030AT для ноутбука&nbsp; Fujitsu&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>0</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0015</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0015&part=7" class=small
+			>Жесткий диск 60Гб MHT2060AT для ноутбука&nbsp; Fujitsu&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 200</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0027</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0027&part=7" class=small
+			>Жесткий диск 60Гб MHV2060AH для ноутбука&nbsp; Fujitsu&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 400</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0002</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0002&part=7" class=small
+			>Жесткий диск 80Гб MHV2080AH для ноутбука&nbsp; Fujitsu&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 700</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0018</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0018&part=7" class=small
+			>Жесткий диск 100Гб HTS541210H9SA00 для ноутбука&nbsp; Hitachi&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>3 000</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0014</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0014&part=7" class=small
+			>Жесткий диск 120Гб HTS541212H9SA00 для ноутбука&nbsp; Hitachi&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>3 500</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0035</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0035&part=7" class=small
+			>Жесткий диск 60Гб HTS541060G9AT00 для ноутбука&nbsp; Hitachi&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>0</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0037</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0037&part=7" class=small
+			>Жесткий диск 60Гб IC25N060ATMR04-0 для ноутбука&nbsp; Hitachi&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>0</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0025</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0025&part=7" class=small
+			>Жесткий диск 80Гб HTS541680J9SA00 для ноутбука&nbsp; Hitachi&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 700</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0038</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0038&part=7" class=small
+			>Жесткий диск 120Гб HM121HI для ноутбука&nbsp; Samsung&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>3 500</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0020</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0020&part=7" class=small
+			>Жесткий диск 40Гб MP0402H для ноутбука&nbsp; Samsung&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 000</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0040</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0040&part=7" class=small
+			>Жесткий диск 60Гб MP0603H для ноутбука&nbsp; Samsung&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>0</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0030</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0030&part=7" class=small
+			>Жесткий диск 100Гб ST9100828A для ноутбука&nbsp; Seagate&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>3 000</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0017</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0017&part=7" class=small
+			>Жесткий диск 120Гб ST9120822AS для ноутбука&nbsp; Seagate&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>3 500</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0028</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0028&part=7" class=small
+			>Жесткий диск 160Гб ST9160821A для ноутбука&nbsp; Seagate&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>3 700</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0029</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0029&part=7" class=small
+			>Жесткий диск 60Гб ST960815A для ноутбука&nbsp; Seagate&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 400</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0013</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0013&part=7" class=small
+			>Жесткий диск 60Гб ST96812AS для ноутбука&nbsp; Seagate&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 400</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0022</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0022&part=7" class=small
+			>Жесткий диск 80Гб ST980811AS для ноутбука&nbsp; Seagate&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 700</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0034</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0034&part=7" class=small
+			>Жесткий диск 80Гб ST98823AS для ноутбука&nbsp; Seagate&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 700</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0011</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0011&part=7" class=small
+			>Жесткий диск 20Гб MK2023GAS для ноутбука&nbsp; Toshiba&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>900</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0016</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0016&part=7" class=small
+			>Жесткий диск 30Гб MK3021GAS для ноутбука&nbsp; Toshiba&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>1 400</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0032</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0032&part=7" class=small
+			>Жесткий диск 6Гб MK6015MAP для ноутбука&nbsp; Toshiba&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>600</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0026</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0026&part=7" class=small
+			>Жесткий диск 80Гб MK8032GAS для ноутбука&nbsp; Toshiba&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>1 850</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0036</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0036&part=7" class=small
+			>Жесткий диск 20Гб IC25N020ATMR04-0 для ноутбука&nbsp; TravelStar&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>0</font></td>
+				
+			<tr><td class=bordTbl width=1%><font class=small><nobr>007-0021</nobr></font></td
+			><td class=bordTbl width=40%><a href="/catalog/parts/partInfo.asp?kod_sklad=007-0021&part=7" class=small
+			>Жесткий диск 80Гб WD800BEVS для ноутбука&nbsp; WesternDigital&nbsp;</a
+			><td class=bordTbl width=1%><font class=small>2 700</font></td>
+		
+</table>	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table>
+
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td width=1%><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=110px height=30px;><br></td
+><td><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px;><br></td></tr
+><tr><td bgcolor=#336699 colspan=2 height=1px
+><img src=http://nb-service.ru/images/empty.gif alt="" border=0 width=1px height=1px;><br/></td></tr
+></table>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0
+><tr><td><font class=small>Компания Ноутбук-Сервис<br>адрес: г.Екатеринбург, Мамина-Сибиряка 36<br
+>телефоны: (343) 355-31-57, 268-17-67, 268-27-73<br>почта: mail [собак] nb-service.ru, dealer [собак] nb-service.ru<br>ICQ: 23918002, 249674155 (стучитесь в оффлайн, иногда из-за спам фильтра сообщения не доходят)</font></td
+><td align=right
+></td></tr></table>
+
+<!-- начало HTML-кода рейтинга УралWeb -->
+<a href="http://www.uralweb.ru/hits/nb/go"
+target="_top"><img border=0 width=1 height=1
+src="http://www.uralweb.ru/hits/nb"
+alt="Рейтинг ресурсов УралWeb"></a>
+<!-- конец HTML-кода рейтинга УралWeb -->
+
+<!-- SpyLOG f:0211 -->
+<script language="javascript"><!--
+Mu="u5237.11.spylog.com";Md=document;Mnv=navigator;Mp=1;
+Mn=(Mnv.appName.substring(0,2)=="Mi")?0:1;Mrn=Math.random();
+Mt=(new Date()).getTimezoneOffset();
+Mz="p="+Mp+"&rn="+Mrn+"&t="+Mt;
+My="";
+My+="<a href='http://"+Mu+"/cnt?cid=523711&f=3&p="+Mp+"&rn="+Mrn+"' target='_blank'>";
+My+="<img src='http://"+Mu+"/cnt?cid=523711&"+Mz+"&r="+escape(Md.referrer)+"&pg="+escape(window.location.href)+"' border=0 width=1 height=1 alt='SpyLOG'>";
+My+="</a>";Md.write(My);//--></script><noscript>
+<a href="http://u5237.11.spylog.com/cnt?cid=523711&f=3&p=1" target="_blank">
+<img src="http://u5237.11.spylog.com/cnt?cid=523711&p=1" alt='SpyLOG' border='0' width=1 height=1 >
+</a></noscript>
+<!-- SpyLOG -->
+
+</body>
+</html>
