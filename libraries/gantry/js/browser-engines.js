@@ -17,6 +17,7 @@ window.addEventListener('load', () => {
     banner.title = 'Нажмите чтобы закрыть';
     banner.innerHTML = `Компания НБ-Сервис не осуществляет гарантийную поддержку Pocketbook с 23.03.2020 !<style>
 #warranty-pocketbook{
+box-sizing: border-box;
 position: absolute;
 top: 100px;
 right: 100px;
