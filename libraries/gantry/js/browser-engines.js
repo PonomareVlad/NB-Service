@@ -14,6 +14,7 @@ window.addEventListener('load', () => {
     // if(localStorage.getItem('pocketbook-warranty'))
     const banner = document.createElement('div');
     banner.id = 'warranty-pocketbook';
+    banner.title = 'Нажмите чтобы закрыть';
     banner.innerHTML = `Компания НБ-Сервис не осуществляет гарантийную поддержку Pocketbook с 23.03.2020 !<style>
 #warranty-pocketbook{
 position: absolute;
@@ -21,13 +22,17 @@ top: 100px;
 left: 100px;
 width: 400px;
 padding: 20px;
-background: orange;
+background: rgb(209, 135, 0);
 color: white;
 z-index: 10000;
 box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 border-top: 1px solid rgba(225,225,225,0.2);
+cursor: pointer;
 }
 </style>`;
+    banner.onclick = function () {
+        this.parentNode.removeChild(this);
+    }
     document.body.appendChild(banner);
     // setTimeout(() => banner.parentNode.removeChild(banner), 5000);
 });
