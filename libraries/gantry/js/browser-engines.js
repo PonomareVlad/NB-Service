@@ -29,10 +29,18 @@ box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 border-top: 1px solid rgba(225,225,225,0.2);
 cursor: pointer;
 }
+@media (max-width: 767px) {
+#warranty-pocketbook{
+width: 100vw;
+left: 0;
+right: 0;
+top: 0;
+}
+}
 </style>`;
     banner.onclick = function () {
         this.parentNode.removeChild(this);
     }
     document.body.appendChild(banner);
-    setTimeout(() => banner.parentNode.removeChild(banner), 5000);
+    setTimeout(() => banner.parentNode.removeChild(banner), 10000);
 });
