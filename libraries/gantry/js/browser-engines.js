@@ -34,5 +34,5 @@ cursor: pointer;
         this.parentNode.removeChild(this);
     }
     document.body.appendChild(banner);
-    // setTimeout(() => banner.parentNode.removeChild(banner), 5000);
+    setTimeout(() => banner.parentNode.removeChild(banner), 5000);
 });
