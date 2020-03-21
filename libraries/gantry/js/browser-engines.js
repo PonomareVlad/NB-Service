@@ -19,7 +19,7 @@ window.addEventListener('load', () => {
 #warranty-pocketbook{
 position: absolute;
 top: 100px;
-left: 100px;
+right: 100px;
 width: 400px;
 padding: 20px;
 background: rgb(209, 135, 0);
