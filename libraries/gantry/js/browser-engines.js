@@ -17,7 +17,7 @@ window.addEventListener('load', () => {
     banner.innerHTML = `Компания НБ-Сервис не осуществляет гарантийную поддержку Pocketbook с 23.03.2020 !<style>
 #warranty-pocketbook{
 position: absolute;
-right: 100px;
+top: 100px;
 left: 100px;
 width: 400px;
 padding: 20px;
@@ -29,5 +29,5 @@ border-top: 1px solid rgba(225,225,225,0.2);
 }
 </style>`;
     document.body.appendChild(banner);
-    setTimeout(() => banner.parentNode.removeChild(banner), 5000);
+    // setTimeout(() => banner.parentNode.removeChild(banner), 5000);
 });
